@@ -1,6 +1,0 @@
-
-Fitchburg State University
-CSC 7132 Operating Systems and Networking
-Spring 2017
-Assignment 1
-Due: 2/10/2017 at 11 PM
